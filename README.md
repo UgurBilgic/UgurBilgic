@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ugur</h1>
+<h1 align="center">Hi, I'm Ugur</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurbilgic&label=Profile%20views&color=0e2fb4&style=flat" alt="ugurbilgic" /> </p>
 
-- 🔭 I’m currently working on **Kotlin,Python**
+- 🔭 I’m currently working on **React, JavaScript, Python**
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
-- 💬 Ask me about **C++, C, C#, SQL**
+- 💬 Ask me about **C++, C, C#, CSS(SCSS), SQL**
 
 - 📫 How to reach me **ugur31212@gmail.com**
 
-- ⚡ Fun fact **I am just trying to learn new things**
+- ⚡ Fun fact **I am currently learning react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
